@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:07:00.610363
-#+TITLE: 洞玄靈寶三洞奉道科戒營始
-#+PROPERTY: DZID  DZ1125
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—741 六卷 太平部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
